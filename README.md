@@ -1,0 +1,2 @@
+# sum-of-multiples-from-codewars-unit-tests
+a kata from codewars titled "Sum of Multiples" where the objective is to find the sum of all the multiples of the first integer less than the second integer. E.g.((2,9) => 2 + 4 + 6 + 8 =20). However, if any integer is 0 or a negative number, the test is deemed "INVALID", for 0 only outputs 0, and negative numbers output negative numbers. I added 4 console.assert tests to check that the code works.
